@@ -1,1 +1,3 @@
 # inu
+korehaneko
+zituhainu
